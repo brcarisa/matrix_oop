@@ -1,4 +1,4 @@
-TARGET = s21_matrix_oop.a
+TARGET = matrix_oop.a
 CC = gcc
 CFLAGS = -Wall -Werror -Wextra -std=c++17 -O3 -lstdc++
 TEST_FLAGS = -lgtest -pthread
